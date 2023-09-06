@@ -22,9 +22,7 @@ Windows:
 Ensure you have Python installed on your Windows machine.
 Open Command Prompt and navigate to the project directory.
 Run the following command to create an executable from the Python script:
-shell
-Copy code
-pyinstaller --onefile verification.py
+`pyinstaller --onefile verification.py`
 This will create an executable file in the dist directory.
 
 macOS:
@@ -32,9 +30,7 @@ macOS:
 Ensure you have Python installed on your macOS machine.
 Open Terminal and navigate to the project directory.
 Run the following command to create an executable from the Python script:
-shell
-Copy code
-pyinstaller --onefile verification.py
+`pyinstaller --onefile verification.py`
 This will create an executable file in the dist directory.
 
 Linux:
@@ -42,9 +38,7 @@ Linux:
 Ensure you have Python installed on your Linux machine.
 Open a terminal and navigate to the project directory.
 Run the following command to create an executable from the Python script:
-shell
-Copy code
-pyinstaller --onefile verification.py
+`pyinstaller --onefile verification.py`
 This will create an executable file in the dist directory.
 
 Pre-built Executable (Arch Linux)
