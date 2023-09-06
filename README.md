@@ -46,10 +46,10 @@ For Arch Linux users, a pre-built executable file is provided in the repository.
 
 ## Usage
 
-Run the compiled or pre-built executable file for your operating system.
-Use the "Generate" tab to create 4-digit alphanumeric codes associated with names.
-The Code and Names are stored in Audit.txt file. (make sure it's in the same folder)
-Use the "Verification" tab to verify entry codes. If the Audit.txt file is present in the same folder, the app will display whether the entered code is verified and the name associated with it.
+1. Run the compiled or pre-built executable file for your operating system.
+2. Use the "Generate" tab to create 4-digit alphanumeric codes associated with names.
+  - The Code and Names are stored in Audit.txt file. (make sure it's in the same folder)
+3. Use the "Verification" tab to verify entry codes. If the Audit.txt file is present in the same folder, the app will display whether the entered code is verified and the name associated with it.
 
 ## Contributing
 
