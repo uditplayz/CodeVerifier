@@ -17,26 +17,10 @@ Code Verification: After generating codes, you can open or close the app as need
 Compilation Steps for Python Script
 Before running the application, you may need to compile the verification.py script on your specific operating system. Here are the compilation steps for Windows, macOS, and major Linux distributions:
 
-Windows:
+Windows, MacOs, Linux:
 
 Ensure you have Python installed on your Windows machine.
 Open Command Prompt and navigate to the project directory.
-Run the following command to create an executable from the Python script:
-`pyinstaller --onefile verification.py`
-This will create an executable file in the dist directory.
-
-macOS:
-
-Ensure you have Python installed on your macOS machine.
-Open Terminal and navigate to the project directory.
-Run the following command to create an executable from the Python script:
-`pyinstaller --onefile verification.py`
-This will create an executable file in the dist directory.
-
-Linux:
-
-Ensure you have Python installed on your Linux machine.
-Open a terminal and navigate to the project directory.
 Run the following command to create an executable from the Python script:
 `pyinstaller --onefile verification.py`
 This will create an executable file in the dist directory.
