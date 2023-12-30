@@ -4,7 +4,7 @@ Entry Code Verification is a simple desktop application written in Python that s
 
 ## About the App
 
-This application was initially created for verifying the entry of people to a farewell party whose names are on the guest list. It features a basic design and offers two main functionalities:
+This GUI Based application was initially created for verifying the entry of people to a farewell party whose names are on the guest list. It features a basic design and offers two main functionalities:
 
 Code Generation: You can enter a name and click the "Generate" button. This action generates a 4-digit alphanumeric code associated with the name. The generated code is saved in the Audit.txt file, along with the name and a serial number.
 
